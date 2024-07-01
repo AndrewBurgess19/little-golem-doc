@@ -14,7 +14,7 @@ On *LittleGolem* are played tournaments for every game:
 * Ladder
 * User tournaments
 
-There exists Waitting Room and is possible to invite to play some player.
+There exists waiting Room and is possible to invite to play some player.
 
 [Time control](http://localhost:1313/time/) is used in all tournaments.
 
